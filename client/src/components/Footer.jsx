@@ -36,7 +36,7 @@ const Footer = () => {
 
       {/* Footer Bottom Row */}
       <div className='flex flex-col sm:flex-row justify-between items-center text-sm text-gray-500'>
-        <p>Copyright 2025 © QuickBlog GreatStack - All Right Reserved.</p>
+        <p>Copyright 2025 © QuickBlog - All Right Reserved.</p>
         <button className='mt-4 sm:mt-0 bg-red-500 text-white px-4 py-1 rounded flex items-center gap-1 hover:bg-red-600 transition'>
           <svg className="w-4 h-4 fill-white" viewBox="0 0 24 24"><path d="M19.615 3.184a2.986 2.986 0 0 0-2.1-2.101C15.872.5 12 .5 12 .5s-3.872 0-5.515.583a2.986 2.986 0 0 0-2.1 2.1C3.8 4.828 3.8 8.7 3.8 8.7s0 3.872.583 5.515a2.986 2.986 0 0 0 2.1 2.1C8.128 17.5 12 17.5 12 17.5s3.872 0 5.515-.583a2.986 2.986 0 0 0 2.1-2.1c.583-1.643.583-5.515.583-5.515s0-3.872-.583-5.515Zm-10.2 8.54V6.276l5.15 2.724-5.15 2.724Z"/></svg>
           Subscribe
