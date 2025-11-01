@@ -1,13 +1,13 @@
 # 🧠 AI-Powered Full Stack Blog Website
 ---
 
-![SkillForge Banner](https://github.com/h1a2r3s4h/SkillForge/blob/main/banner1.png?raw=true)
+<!-- ![SkillForge Banner](https://github.com/h1a2r3s4h/SkillForge/blob/main/banner1.png?raw=true)-->
 
 ---
 
 ## 🌐 Live Demo  
 🔗 **Website:** [https://quickblog.vercel.app](https://quick-blog-livid.vercel.app)  
-📦 **GitHub Repo:** [https://github.com/h1a2r3s4h/SkillForge](https://github.com/h1a2r3s4h/SkillForge)
+<!--📦 **GitHub Repo:** [https://github.com/h1a2r3s4h/SkillForge](https://github.com/h1a2r3s4h/SkillForge)-->
 
 ---
 
